@@ -1,0 +1,10 @@
+{
+    "path-autocomplete.pathMappings": {},
+    "emmet.includeLanguages": {
+        "emmet.syntaxProfiles": "jsx",
+        "javascript": "html5"
+    },
+    "emmet.excludeLanguages": [
+        "markdown"
+    ]
+}
